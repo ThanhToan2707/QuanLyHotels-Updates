@@ -1,6 +1,6 @@
 {
-  "Version":   "1.0.1.0",  
-  "Url":       "https://raw.githubusercontent.com/ThanhToan2707/QuanLyHotels-Updates/main/updates/QuanLyHotels_v1.0.1.0.zip",
-  "Changelog": "– Sửa lỗi nhập liệu\n– Thêm báo cáo doanh thu",  
-  "Mandatory": false
+  "version":   "1.0.1.0",
+  "url":       "https://thanhtoan2707.github.io/QuanLyHotels-Updates/updates/QuanLyHotels_v1.0.1.0.zip",
+  "changelog": "– Sửa lỗi nhập liệu\n– Thêm báo cáo doanh thu",
+  "mandatory": false
 }
