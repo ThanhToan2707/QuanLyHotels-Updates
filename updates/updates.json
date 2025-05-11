@@ -1,6 +1,6 @@
 {
-  "Version":   "1.0.0.0",
-  "Url":       "https://raw.githubusercontent.com/ThanhToan2707/QuanLyHotels-Updates/main/updates/QuanLyHotels_v1.0.0.0.zip",
-  "Changelog": "– Lần phát hành đầu tiên\n– Thêm Backup/Restore\n– Thêm Auto-Update",
+  "Version":   "1.0.1.0",  
+  "Url":       "https://raw.githubusercontent.com/ThanhToan2707/QuanLyHotels-Updates/main/updates/QuanLyHotels_v1.0.1.0.zip",
+  "Changelog": "– Sửa lỗi nhập liệu\n– Thêm báo cáo doanh thu",  
   "Mandatory": false
 }
